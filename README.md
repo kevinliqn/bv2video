@@ -22,7 +22,7 @@ bv2video使用visual studio 2022开发，在项目属性中添加链接器——
 * `libswscale` implements color conversion and scaling routines.
 
 ## License
-bv2video 原始代码在 LGPLv2.1 下发布。上游仓库中的所有代码都保留在其原始许可证下（有关更多详细信息，请参阅上游仓库的许可证信息）。
+bv2video 原始代码在 MIT 下发布。上游仓库中的所有代码都保留在其原始许可证下（有关更多详细信息，请参阅上游仓库的许可证信息）。
 
 ## 在最后
 欢迎大家提出不足，我收到大家的反馈会及时改正的，也欢迎大家将想要的功能提出来，欢迎提交代码
